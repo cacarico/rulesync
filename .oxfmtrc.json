@@ -21,7 +21,8 @@
     ".serena/project.yml",
     ".github/copilot-instructions.md",
     ".github/instructions/**",
-    "rulesync.local.jsonc"
+    "rulesync.local.jsonc",
+    "src/e2e/__golden__/**"
   ],
   "overrides": [
     {
